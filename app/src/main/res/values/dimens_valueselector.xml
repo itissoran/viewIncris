@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="value_selector_button_wh">36dp
+    </dimen>
+    <dimen name="valueselector_margin_rl">10dp</dimen>
+    <dimen name="valueselector_margin_up_bottom">10dp</dimen>
+
+
+
+
+
+</resources>
